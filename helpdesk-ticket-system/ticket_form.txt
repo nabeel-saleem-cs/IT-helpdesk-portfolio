@@ -1,0 +1,119 @@
+Ticket 001
+User Name: John Smith
+Department: Finance
+Issue Type: Login
+Description: Unable to reset password on company portal.
+Priority: High
+Date: 2026-03-01
+
+Ticket 002
+User Name: Emily Davis
+Department: Marketing
+Issue Type: Email
+Description: Outlook not syncing with mobile device.
+Priority: Medium
+Date: 2026-03-01
+
+Ticket 003
+User Name: Michael Brown
+Department: IT
+Issue Type: Network
+Description: Wi-Fi disconnects intermittently on laptop.
+Priority: High
+Date: 2026-03-02
+
+Ticket 004
+User Name: Sarah Johnson
+Department: HR
+Issue Type: Software
+Description: Application crashes on startup when opening payroll software.
+Priority: Medium
+Date: 2026-03-02
+
+Ticket 005
+User Name: David Wilson
+Department: Finance
+Issue Type: Login
+Description: Account locked after 3 failed login attempts.
+Priority: High
+Date: 2026-03-03
+
+Ticket 006
+User Name: Jessica Martinez
+Department: Admin
+Issue Type: Hardware
+Description: Keyboard keys not responding.
+Priority: Low
+Date: 2026-03-03
+
+Ticket 007
+User Name: Daniel Anderson
+Department: IT
+Issue Type: Network
+Description: VPN connection fails with error code 619.
+Priority: High
+Date: 2026-03-04
+
+Ticket 008
+User Name: Ashley Thomas
+Department: Marketing
+Issue Type: Email
+Description: Important emails going to spam folder.
+Priority: Low
+Date: 2026-03-04
+
+Ticket 009
+User Name: Christopher Taylor
+Department: HR
+Issue Type: Software
+Description: Cannot install new HR software on workstation.
+Priority: Medium
+Date: 2026-03-05
+
+Ticket 010
+User Name: Megan Moore
+Department: Finance
+Issue Type: Login
+Description: Forgot password for internal payroll system.
+Priority: Low
+Date: 2026-03-05
+
+Ticket 011
+User Name: Matthew Jackson
+Department: Operations
+Issue Type: Network
+Description: Internet connection is very slow during work hours.
+Priority: Medium
+Date: 2026-03-06
+
+Ticket 012
+User Name: Olivia White
+Department: Admin
+Issue Type: Hardware
+Description: Mouse stopped responding intermittently.
+Priority: Low
+Date: 2026-03-06
+
+Ticket 013
+User Name: Andrew Harris
+Department: IT
+Issue Type: Software
+Description: System freezes randomly after login.
+Priority: High
+Date: 2026-03-07
+
+Ticket 014
+User Name: Samantha Martin
+Department: Marketing
+Issue Type: Email
+Description: Cannot send emails to external clients.
+Priority: Medium
+Date: 2026-03-07
+
+Ticket 015
+User Name: Joshua Thompson
+Department: Finance
+Issue Type: Login
+Description: Multi-factor authentication not working.
+Priority: High
+Date: 2026-03-08
